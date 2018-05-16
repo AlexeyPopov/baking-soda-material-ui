@@ -65,6 +65,7 @@ However, in clojurescript with baking-soda, you'd write something like this:
 # License
 
 Copyright © 2018 Guliy Anatoliy, Alexey Popov
+
 Based on [baking-soda](https://github.com/gadfly361/baking-soda) by Matthew Jaoudi
 
 Distributed under the The MIT License (MIT).
