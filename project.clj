@@ -1,4 +1,4 @@
-(defproject alexeypopov/baking-soda-material-ui "0.0.1-SNAPSHOT"
+(defproject alexeypopov/baking-soda-material-ui "0.0.1"
   :description "baking-soda-material-ui is an interface between clojurescript's reagent
                 and material-ui"
   :url "https://github.com/alexeypopov/baking-soda-material-ui"
