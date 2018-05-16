@@ -14,9 +14,9 @@ Put the following in the `:dependencies` vector of your *project.clj*
 [cljsjs/react-dom "16.3.2-0" :exclusions [cljsjs/react]]
 [reagent "0.8.0" :exclusions [cljsjs/react
                               cljsjs/react-dom]]
-[alexeypopov/baking-soda-material-ui "0.0.1-SNAPSHOT" :exclusions [cljsjs/react
-                                                                   cljsjs/react-dom
-                                                                   cljsjs/reagent]]
+[alexeypopov/baking-soda-material-ui "0.0.1" :exclusions [cljsjs/react
+                                                          cljsjs/react-dom
+                                                          cljsjs/reagent]]
 ```
 
 Then require baking-soda in your namespace.
