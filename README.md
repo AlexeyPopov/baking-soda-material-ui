@@ -1,4 +1,4 @@
-# baking-soda
+# baking-soda-material-ui
 
 Baking-soda-material-ui is an interface between
 clojurescript's [reagent](https://github.com/reagent-project/reagent)
