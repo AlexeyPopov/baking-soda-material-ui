@@ -62,7 +62,7 @@
     MobileStepper
     Modal
     ModalManager
-    NativeSelect
+    ;; NativeSelect
     Paper
     Popover
     Portal
